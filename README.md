@@ -1,5 +1,9 @@
--> 👋 Hi, I’m sayyad
--> 👀 I’m interested in ...frontend projects
--> 🌱 I’m currently working as a frondend-dev at a edTech company.
--> I use nextjs,tailwind css , react query in the projects
--> 📫 you can ping me to collaborate on frondend projects
+# 👋 Hi, I'm Sayyad
+
+👀 I’m interested in frontend projects
+
+🌱 I’m currently working as a frontend developer at an EdTech company.
+
+🚀 I use Next.js, Tailwind CSS, and React Query in my projects.
+
+📫 You can ping me to collaborate on frontend projects.
